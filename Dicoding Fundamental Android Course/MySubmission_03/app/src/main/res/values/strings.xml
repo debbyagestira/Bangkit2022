@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GitHub Favorite User</string>
+    <string name="username">Username</string>
+    <string name="name">Nama</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="version">Version 3.0</string>
+    <string name="avatar">Avatar</string>
+    <string name="search">Search</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="logo">GitHubLogo</string>
+    <string name="detail_user">Detail User</string>
+    <string name="favorite_user">Favorite User</string>
+</resources>

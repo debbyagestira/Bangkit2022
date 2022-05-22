@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">login</string>
+    <string name="or_register">OR</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="copyright">Copyright © 2022. Created by DAGESTIRA</string>
+
+
+    <string name="story">Story</string>
+    <string name="username">Username</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="name">Nama</string>
+
+    <string name="logo">Logo</string>
+    <string name="date">Date Created</string>
+    <string name="desc">Description</string>
+    <string name="exit">Exit</string>
+    <string name="add_story">Add Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="story_desc">Tuliskan deskripsi</string>
+    <string name="upload">Upload</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="button_switch">Button Switch</string>
+
+    <string name="success_upload">Cerita berhasil ditambahkan</string>
+    <string name="retrofit_failed">Gagal instance Retrofit</string>
+    <string name="add_image_warn">Masukan foto terlebih dahulu</string>
+</resources>
